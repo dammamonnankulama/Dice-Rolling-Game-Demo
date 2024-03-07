@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cwk2</string>
+    <string name="roll">Roll</string>
+    <string name="user_player">User</string>
+    <string name="computer_player">Computer</string>
+    <string name="total_score">Total Score</string>
+    <string name="throw_dice">Throw</string>
+    <string name="score_button">Score</string>
+</resources>
